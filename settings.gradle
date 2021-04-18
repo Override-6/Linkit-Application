@@ -1,5 +1,4 @@
 include 'Server'
 include 'Client'
-include 'Application'
-include 'Application'
+include 'Core'
 

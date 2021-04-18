@@ -1,0 +1,5 @@
+{
+  "owner": "%owner_name%",
+  "plugin": "%plugin_name%",
+  "version": "%plugin_version%"
+}

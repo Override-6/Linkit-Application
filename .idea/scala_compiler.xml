@@ -12,7 +12,7 @@
         <parameter value="-target:jvm-14" />
       </parameters>
     </profile>
-    <profile name="Gradle 2" modules="Linkit-App.Application.main,Linkit-App.Application.test,Linkit-App.Client.main,Linkit-App.Client.test,Linkit-App.Server.main,Linkit-App.Server.test">
+    <profile name="Gradle 2" modules="Linkit-App.Application.main,Linkit-App.Application.test,Linkit-App.Client.main,Linkit-App.Client.test,Linkit-App.Core.main,Linkit-App.Core.test,Linkit-App.Server.main,Linkit-App.Server.test">
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />
       <parameters>

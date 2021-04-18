@@ -1,0 +1,14 @@
+{
+  "plugin": "%plugin_name%",
+  "version": "%plugin_version%",
+  "permissions": [
+    "%permissions%"
+  ],
+  "critical_permissions": [
+    "%critical_permissions%"
+  ],
+  "tags": [
+    "%tags%"
+  ],
+  "url": "%github_url%"
+}
